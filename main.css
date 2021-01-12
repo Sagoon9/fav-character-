@@ -1,0 +1,41 @@
+body
+{
+background: rgb(130,14,14);
+background: linear-gradient(90deg, rgba(130,14,14,1) 33%, rgba(190,164,88,1) 80%);;
+color: floralwhite;
+text-align: center;
+font-size: 20px;
+font-family:inherit;
+}
+
+
+.menu{
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+}
+.links{
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+}
+.links:hover
+{
+    background-color:;
+    color:firebrick;
+}
+
+{
+    font-family: 'Redressed', cursive;
+
+}
+
+.info
+{
+font-size: 30px;
+}
